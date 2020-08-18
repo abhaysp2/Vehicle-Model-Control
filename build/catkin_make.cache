@@ -1,0 +1,2 @@
+mp2
+-DCATKIN_DEVEL_PREFIX=/home/raghava4/mp2-release-20sp/devel -DCMAKE_INSTALL_PREFIX=/home/raghava4/mp2-release-20sp/install -G Unix Makefiles

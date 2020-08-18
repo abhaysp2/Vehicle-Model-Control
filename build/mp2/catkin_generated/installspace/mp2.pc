@@ -1,0 +1,8 @@
+prefix=/home/raghava4/mp2-release-20sp/install
+
+Name: mp2
+Description: Description of mp2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
